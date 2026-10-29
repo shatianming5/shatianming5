@@ -1,5 +1,7 @@
 ### Hi, I'm Tianming (Tommy) Sha 👋
 
+> 🚀🚀🚀 **I'm on the job market** for full-time **Research Scientist / Engineer** or related positions in **Large Language Models** (Post-Training & Agentic RL)! Please [reach out to me](mailto:Tianming.Sha@stonybrook.edu) if you are interested in my research!
+
 Research Engineer / Scientist focused on **LLM Post-Training & Agentic RL** — building forkable agent runtimes, state-faithful SFT pipelines, verifiable container environments, and evaluation benchmarks.
 
 🌐 **[Personal Homepage](https://shatianming5.github.io/)** &nbsp;·&nbsp; 🎓 **[Google Scholar](https://scholar.google.com/citations?user=FQNrxf0AAAAJ)** &nbsp;·&nbsp; 📫 **[Tianming.Sha@stonybrook.edu](mailto:Tianming.Sha@stonybrook.edu)**
